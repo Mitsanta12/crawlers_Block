@@ -2,7 +2,7 @@
 #### Crawlers désignent dans le monde de l'informatique un robot d'indexation   il s'agit d'un logiciel qui a pour principale mission d'explorer le Web afin d'analyser le contenu des documents visités et les stocker de manière organisée dans un index.
 
 Alors voici un script qui permet de bloquer les scrawlers à l'aide des commandes de base linux dont : 
-    <h5>♠ awk </h5> 
+<h5>♠ awk </h5> 
     
 <h5>♠ tail </h5> 
     
